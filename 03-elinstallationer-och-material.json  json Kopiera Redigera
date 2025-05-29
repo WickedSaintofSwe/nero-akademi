@@ -1,0 +1,11 @@
+{
+  "modul_namn": "Elinstallationer och material",
+  "beskrivning": "Här lär du dig om de vanligaste installationstyperna, kabeltyperna och kopplingsmateriel som används i svenska hem och fastigheter.",
+  "innehåll": [
+    "Installationsmiljöer: bostad, kontor, industri",
+    "Kabeltyper och märkning (EXQ, EKK, FK etc)",
+    "Kopplingsdosor, strömbrytare och uttag",
+    "Montageanvisningar och kapslingsklasser (IP)",
+    "Skyddsjordning och potentialutjämning"
+  ]
+}
