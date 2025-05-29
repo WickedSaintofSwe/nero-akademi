@@ -1,0 +1,11 @@
+{
+  "modul_namn": "Smarta hem-system",
+  "beskrivning": "Denna modul handlar om hur man installerar, programmerar och felsöker smarta hem-lösningar.",
+  "innehåll": [
+    "Vad är ett smart hem?",
+    "Zigbee, Z-Wave, WiFi – skillnader",
+    "Styrning av belysning, värme och larm",
+    "Röstassistenter och integration",
+    "Planering och dokumentation"
+  ]
+}
