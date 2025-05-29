@@ -1,0 +1,11 @@
+{
+  "modul_namn": "Styr- och reglerteknik",
+  "beskrivning": "Introduktion till automationssystem, termostater, reläer och styrlogik.",
+  "innehåll": [
+    "Vad är styrteknik?",
+    "Reläer, timers och kontaktorer",
+    "PLC – grunder och exempel",
+    "Reglersystem för värme och ventilation",
+    "Schemor och praktiska kopplingar"
+  ]
+}
