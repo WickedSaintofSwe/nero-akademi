@@ -1,0 +1,9 @@
+{
+  "modul": "Elmiljö och EMC",
+  "beskrivning": "Förstå elektromagnetisk kompatibilitet och hur elektriska installationer påverkas och påverkar sin omgivning.",
+  "mål": [
+    "Beskriva begreppet elektromagnetisk kompatibilitet (EMC).",
+    "Identifiera störkällor och känslig utrustning.",
+    "Tillämpa åtgärder för att minska störningar i installationer."
+  ]
+}
