@@ -1,0 +1,9 @@
+{
+  "modul": "Industriell automation",
+  "beskrivning": "Grundläggande om styrsystem, PLC och el i automatiserade industrimiljöer.",
+  "mål": [
+    "Beskriva vad ett PLC-system är.",
+    "Förstå grunderna i sensorsystem och ställdon.",
+    "Tolkar kopplingsscheman för automation."
+  ]
+}
