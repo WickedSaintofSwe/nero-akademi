@@ -1,0 +1,11 @@
+{
+  "modul_namn": "Grunderna i elektricitet",
+  "beskrivning": "Denna modul introducerar grundläggande begrepp inom elektricitet såsom spänning, ström, resistans och Ohms lag. Fokus ligger på att förstå sambanden mellan dessa och tillämpa grundläggande beräkningar.",
+  "innehåll": [
+    "Vad är elektricitet?",
+    "Spänning (Volt), Ström (Ampere), Resistans (Ohm)",
+    "Ohms lag och dess tillämpning",
+    "Effektberäkningar (Watt)",
+    "Enkla kretsar – serie och parallellkoppling"
+  ]
+}
