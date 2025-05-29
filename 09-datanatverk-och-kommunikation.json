@@ -1,0 +1,11 @@
+{
+  "modul_namn": "Datanätverk och kommunikation",
+  "beskrivning": "Grundläggande datanätverk för elinstallatörer som jobbar med smarta hem.",
+  "innehåll": [
+    "Grunderna i nätverk – IP, router, switch",
+    "Kabelstandarder (Cat5e, Cat6, Cat7)",
+    "WiFi och mesh-nätverk",
+    "Nätverksmätning och felsökning",
+    "Dataskydd och cybersäkerhet"
+  ]
+}
