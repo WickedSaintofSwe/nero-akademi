@@ -1,0 +1,11 @@
+{
+  "modul_namn": "Laddboxar och elbilar",
+  "beskrivning": "Installation och felsökning av laddinfrastruktur för elbilar.",
+  "innehåll": [
+    "Olika typer av laddboxar (AC/DC)",
+    "Laddstandarder (Typ 2, CCS, CHAdeMO)",
+    "Säkerhet vid installation",
+    "Lastbalansering och framtidssäkring",
+    "Bidrag och ROT-avdrag"
+  ]
+}
