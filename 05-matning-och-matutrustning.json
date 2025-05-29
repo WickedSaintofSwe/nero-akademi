@@ -1,0 +1,11 @@
+{
+  "modul_namn": "Mätning och mätinstrument",
+  "beskrivning": "Här går vi igenom de viktigaste instrumenten och hur man använder dem på rätt sätt.",
+  "innehåll": [
+    "Multimeter – funktioner och säkerhet",
+    "Strömtänger och spänningsprovare",
+    "Isolationsprovare",
+    "Felkällor och kalibrering",
+    "Praktiska mätövningar"
+  ]
+}
