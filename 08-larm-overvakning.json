@@ -1,0 +1,11 @@
+{
+  "modul_namn": "Larm- och övervakningssystem",
+  "beskrivning": "Installera och förstå hur olika larmsystem och kameraövervakning fungerar.",
+  "innehåll": [
+    "Inbrottslarm – komponenter och koppling",
+    "Brandlarm – standarder och regler",
+    "Kameralösningar (CCTV, IP-kameror)",
+    "Integrerade säkerhetssystem",
+    "GDPR och juridik"
+  ]
+}
